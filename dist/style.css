@@ -230,10 +230,3 @@ form {
     margin: auto;
     color: #508e8d;
   }
-  
-  .badge {
-    display: flex;
-    padding: 4px 8px;
-    border-radius: 4px;
-    color: var(--white);
-  }
